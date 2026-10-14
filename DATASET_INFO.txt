@@ -1,0 +1,3 @@
+Breast Cancer Wisconsin: 569 records, 30 numeric input features, target benign/malignant.
+Wine Recognition: 178 records, 13 numeric input features, target class_0/class_1/class_2.
+Both are established classification datasets bundled with scikit-learn and exported here as CSV.
